@@ -7,3 +7,9 @@ Organizadores:
 - **Milton Camara Gomes (Microsoft MVP, MTAC)**
 
 Número de participantes: **36 pessoas**
+
+---
+
+![Painel 01](img/painel-01.jpg)
+
+![Painel 02](img/painel-03.jpg)
