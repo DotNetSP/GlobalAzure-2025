@@ -84,6 +84,12 @@ Deixamos aqui nossos agradecimentos ao Victor Temple e à Larissa Cyganski pela 
 
 ![Gustavo 02](img/gustavo-05.jpg)
 
+![Murilo e Lucas Banner](img/banner-murilo-lucas.png)
+
+![Murilo e Lucas 01](img/murilo-lucas-02.jpg)
+
+![Murilo e Lucas 02](img/murilo-lucas-04.jpg)
+
 ![Painel Banner](img/banner-painel.png)
 
 ![Painel 01](img/painel-01.jpg)
