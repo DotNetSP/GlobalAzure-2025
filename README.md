@@ -18,16 +18,15 @@ Palestrante: Erick Ferreira (Microsoft)
 
 Tecnologias e tópicos abordadas: **Cybersecurity, Microsoft Azure, Azure OpenAI**
 
-_# Novidades no Desenvolvimento de Aplicações: .NET 9, ASP.NET Core, MAUI, Visual Studio..._
+_# O Futuro da Nuvem com Azure: Inovação, IA e Segurança!_
 
 Participantes:
-- Renato Groffe (Microsoft MVP, Docker Captain, MTAC)
-- Thiago Bertuzzi (Microsoft MVP)
-- Talles Valiatti (Microsoft MVP)
-- Milton Camara Gomes (Microsoft MVP)
-- Ramon Durães (Microsoft MVP)
+- Renato Groffe (Microsoft MVP, Docker Captain, APIsec U Ambassador, MTAC)
+- Thiago Bertuzzi (Microsoft MVP, APIsec U Ambassador)
+- Mayumi Shingaki (Microsoft MVP)
+- Milton Camara Gomes (Microsoft MVP, MTAC)
 
-Tecnologias abordadas: **.NET 9, ASP.NET Core, C# 13, MAUI, Blazor, Aspire, Docker, Kubernetes, Visual Studio 2022, Visual Studio Code, Azure OpenAI, Ollama, Semantic Kernel, AI Building Blocks, OpenTelemetry, Redis, Microsoft Azure**
+Tecnologias e tópicos abordados: **Microsoft Azure, .NET, ASP.NET Core, Containers, Docker, Kubernetes, Azure OpenAI, GitHub Copilot, Cybersecurity, OWASP, Azure DevOps, GitHub Actions, DevSecOps...**
 
 ---
 
@@ -35,7 +34,7 @@ Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações
 
 Para acessar a gravação do evento no **YouTube** clique neste [**link**](https://www.youtube.com/watch?v=17hknH1POTI).
 
-Este evento foi uma parceria entre as comunidades [**.NET SP**](https://www.meetup.com/dotnet-Sao-Paulo/), [**Azure Talks**](https://www.meetup.com/azure-talks/), [**Azure na Prática**](https://www.meetup.com/azure-talks/) e o [**Microsoft Reactor**](https://www.meetup.com/Microsoft-Reactor-Sao-Paulo/).
+Este evento foi uma parceria entre as comunidades [**.NET SP**](https://www.meetup.com/dotnet-Sao-Paulo/), [**Azure Talks**](https://www.meetup.com/azure-talks/), [**Azure na Prática**](https://www.youtube.com/azurenapratica) e o [**Microsoft Reactor**](https://www.meetup.com/Microsoft-Reactor-Sao-Paulo/).
 
 Formulário utilizado para inscrições: [**Microsoft Reactor**](https://developer.microsoft.com/en-us/reactor/events/25575/)
 
