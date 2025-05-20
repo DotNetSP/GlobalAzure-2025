@@ -72,6 +72,12 @@ Deixamos aqui nossos agradecimentos ao Victor Temple e à Larissa Cyganski pela 
 
 ![Erick 02](img/erick-05.jpg)
 
+![Beatriz e Marcio Banner](img/banner-nizzola-bea.png)
+
+![Beatriz e Marcio 01](img/beatriz-marcio-05.jpg)
+
+![Beatriz e Marcio 02](img/beatriz-marcio-10.jpg)
+
 ![Painel Banner](img/banner-painel.png)
 
 ![Painel 01](img/painel-01.jpg)
