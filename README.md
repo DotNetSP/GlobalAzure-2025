@@ -14,7 +14,7 @@ Apresentações/painéis que aconteceram durante o evento:
 
 _# Keynote: Global Azure 2025 em São Paulo-SP_
 
-Participantes:
+Apresentadores:
 - Renato Groffe (Microsoft MVP, Docker Captain, APIsec U Ambassador, MTAC)
 - Thiago Bertuzzi (Microsoft MVP, APIsec U Ambassador)
 
