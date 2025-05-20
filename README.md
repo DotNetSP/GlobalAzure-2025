@@ -26,6 +26,14 @@ Palestrante: Erick Ferreira (Microsoft)
 
 Tecnologias e tópicos abordadas: **Cybersecurity, Microsoft Azure, Azure OpenAI**
 
+_# Interpretando Documentos com Azure Document Intelligence + Azure Open AI_
+
+Palestrantes:
+- Beatriz Tavernaro (Microsoft Learn Student Ambassador)
+- Marcio Nizzola (Microsoft MVP)
+
+Tecnologias e tópicos abordados: **Azure Open AI, Document Intelligence, Azure AI Services**
+
 _# O Futuro da Nuvem com Azure: Inovação, IA e Segurança!_
 
 Participantes:
