@@ -10,6 +10,10 @@ Número de participantes: **36 pessoas**
 
 ---
 
+![Erick 01](img/erick-04.jpg)
+
+![Erick 02](img/erick-05.jpg)
+
 ![Painel 01](img/painel-01.jpg)
 
 ![Painel 02](img/painel-03.jpg)
