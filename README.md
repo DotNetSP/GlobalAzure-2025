@@ -12,6 +12,14 @@ Número de participantes: **36 pessoas**
 
 Apresentações/painéis que aconteceram durante o evento:
 
+_# Keynote: Global Azure 2025 em São Paulo-SP_
+
+Participantes:
+- Renato Groffe (Microsoft MVP, Docker Captain, APIsec U Ambassador, MTAC)
+- Thiago Bertuzzi (Microsoft MVP, APIsec U Ambassador)
+
+Tecnologias e tópicos abordados: **Microsoft Azure, .NET, ASP.NET Core, Containers, Docker, Kubernetes, Azure OpenAI, GitHub Copilot, Cybersecurity, DevSecOps...**
+
 _# Armadilhas Invisíveis: Protegendo Aplicações de AI contra Vetores de Ataque Emergentes_
 
 Palestrante: Erick Ferreira (Microsoft)
