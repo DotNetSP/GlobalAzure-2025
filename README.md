@@ -78,6 +78,12 @@ Deixamos aqui nossos agradecimentos ao Victor Temple e à Larissa Cyganski pela 
 
 ![Beatriz e Marcio 02](img/beatriz-marcio-10.jpg)
 
+![Gustavo Banner](img/banner-bigardi.png)
+
+![Gustavo 01](img/gustavo-04.jpg)
+
+![Gustavo 02](img/gustavo-05.jpg)
+
 ![Painel Banner](img/banner-painel.png)
 
 ![Painel 01](img/painel-01.jpg)
