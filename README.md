@@ -44,6 +44,12 @@ Deixamos aqui nossos agradecimentos ao Victor Temple e à Larissa Cyganski pela 
 
 ---
 
+![Abertura Banner](img/banner-abertura.png)
+
+![Abertura 01](img/abertura-01.jpg)
+
+![Abertura 02](img/abertura-04.jpg)
+
 ![Erick Banner](img/banner-erick.png)
 
 ![Erick 01](img/erick-04.jpg)
