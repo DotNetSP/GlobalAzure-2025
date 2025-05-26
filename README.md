@@ -95,3 +95,5 @@ Deixamos aqui nossos agradecimentos ao Victor Temple e à Larissa Cyganski pela 
 ![Painel 01](img/painel-01.jpg)
 
 ![Painel 02](img/painel-03.jpg)
+
+![Encerramento 01](img/encerramento-01.jpg)
