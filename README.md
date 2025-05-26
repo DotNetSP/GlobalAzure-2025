@@ -34,6 +34,12 @@ Palestrantes:
 
 Tecnologias e tópicos abordados: **Azure Open AI, Document Intelligence, Azure AI Services**
 
+_# Ambientes dinâmicos no Azure com Terraform_
+
+Palestrante: Gustavo Bigardi (Microsoft MVP)
+
+Tecnologias e tópicos abordados: **Terraform, GitHub Actions, Microsoft Azure, Linux...**
+
 _# Some Functions and a Blackboard: Tackling Large-Scale Logistics Challenges_
 
 Palestrantes:
@@ -107,3 +113,5 @@ Deixamos aqui nossos agradecimentos ao Victor Temple e à Larissa Cyganski pela 
 ![Encerramento 01](img/encerramento-01.jpg)
 
 ![Encerramento 02](img/encerramento-10.jpg)
+
+![Encerramento 03](img/encerramento-06.jpg)
