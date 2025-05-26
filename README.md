@@ -34,6 +34,14 @@ Palestrantes:
 
 Tecnologias e tópicos abordados: **Azure Open AI, Document Intelligence, Azure AI Services**
 
+_# Some Functions and a Blackboard: Tackling Large-Scale Logistics Challenges_
+
+Palestrantes:
+- Murilo Beltrame (AmbevTech)
+- Lucas Alves (AmbevTech)
+
+Tecnologias e tópicos abordados: **Azure Functions, Azure Monitor, Application Insights, Log Analytics, .NET, Linux...**
+
 _# O Futuro da Nuvem com Azure: Inovação, IA e Segurança!_
 
 Participantes:
